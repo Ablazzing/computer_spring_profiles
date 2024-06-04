@@ -1,0 +1,6 @@
+monitor:
+  name: ${MONITOR_NAME:default_monitor}
+mouse:
+  enabled: true
+touchpad:
+  enabled: false

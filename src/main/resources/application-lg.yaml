@@ -1,0 +1,2 @@
+monitor:
+  name: ${LG_MONITOR_NAME:lg2827}
